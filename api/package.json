@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step'"
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^21.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
